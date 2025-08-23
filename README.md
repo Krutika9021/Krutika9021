@@ -17,11 +17,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🐍 Watch my contribution graph get eaten by a Snake!
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krutika9021/github-painter/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krutika9021/github-painter/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Krutika9021/github-painter/output/dist/github-snake.svg" />
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/Krutika9021/github_painter/output/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Krutika9021/github_painter/output/dist/github-snake-dark.svg#gh-dark-mode-only)
+
 
