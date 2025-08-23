@@ -17,11 +17,8 @@
 
 
 ## 🐍 Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/Krutika9021/graph_painter/main/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Krutika9021/graph_painter/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krutika9021&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-
+![GitHub Snake Light](https://raw.githubusercontent.com/Krutika9021/github_painter/main/dist/github-snake.svg#gh-light-mode-only) 
+![GitHub Snake Dark](https://raw.githubusercontent.com/Krutika9021/github_painter/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 👀 Profile Visitors
 [![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
