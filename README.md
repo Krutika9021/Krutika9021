@@ -12,11 +12,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Snake](https://github.com/Krutika9021/graph-painter/raw/main/snake.yml)
 
-## 🐍 Contribution Snake
-![GitHub Snake](https://github.com/Krutika9021/graph-painter/blob/main/snake.txt)
 ## 👀 Profile Visitors
 [![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
 
