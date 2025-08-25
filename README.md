@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🐍 Contribution Snake
-[![Contributions](https://github-readme-stats.vercel.app/api?username=Krutika9021&show_icons=true&theme=dark)](https://github.com/Krutika9021)
+![GitHub Snake](https://github.com/Krutika9021/graph-painter/blob/main/snake.txt)
 ## 👀 Profile Visitors
 [![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
 
