@@ -12,8 +12,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krutika9021&theme=dark)
-
+![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/Krutika9021/main/dist/github-snake.svg)
 
 ## 👀 Profile Visitors
 [![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
