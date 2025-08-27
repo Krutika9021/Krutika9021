@@ -12,7 +12,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake-dark.svg)
+<picture>
+  <source srcset="dist/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="dist/github-snake.svg" alt="GitHub Snake">
+</picture>
+
 
 ## 👀 Profile Visitors
 [![](https://visitcount.itsvg.in/api?id=Krutika9021&icon=0&color=0)](https://visitcount.itsvg.in)
