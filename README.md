@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
-  <source srcset="dist/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="github_graph_painter/dist/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
   <img src="dist/github-snake.svg" alt="GitHub Snake">
 </picture>
 
