@@ -51,19 +51,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Krutika9021&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🐍 Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/Krutika9021/graph-painter/main/dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Krutika9021/graph-painter/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake.svg)  
 
 ---
 
