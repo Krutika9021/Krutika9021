@@ -52,7 +52,10 @@
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/Krutika9021/main/dist/github-snake.svg?v=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake-dark.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake.svg">
+</picture>
 
 
 
