@@ -41,8 +41,8 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krutika9021&theme=default&bg_color=FFFFFF&title_color=000000&text_color=000000&layout=compact&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krutika9021&theme=dark&hide_border=false)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Krutika9021&bg_color=FFFFFF&color=9CA3AF&line=22C55E&point=22C55E&area=false&hide_border=true)
+
 
 
 ---
