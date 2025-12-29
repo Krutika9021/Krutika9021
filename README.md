@@ -52,9 +52,7 @@
 
 ---
 
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Krutika9021/Krutika9021/main/dist/github-snake.svg?v=1#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Krutika9021/Krutika9021/main/dist/github-snake-dark.svg?v=1#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/Krutika9021/main/dist/github-snake.svg?v=2)
 
 
 
