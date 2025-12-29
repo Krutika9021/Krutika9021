@@ -52,7 +52,7 @@
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/<USER>/<REPO>/main/dist/github-snake.svg?v=2)
+sed -i 's|!\[GitHub Snake\](.*)|![GitHub Snake](https://raw.githubusercontent.com/'"$GITHUB_REPOSITORY"'/main/dist/github-snake.svg?v='"$(date +%s)"')|' README.md
 
 
 
