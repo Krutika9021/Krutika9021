@@ -54,7 +54,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake.svg?v=2)
+![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake.svg?v=3)
 
 
 
