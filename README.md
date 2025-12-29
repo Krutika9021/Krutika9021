@@ -52,7 +52,8 @@
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/dist/github-snake.svg?v=2)
+![GitHub Snake Light](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/dist/github-snake.svg?v=1#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/dist/github-snake-dark.svg?v=1#gh-dark-mode-only)
 
 
 
