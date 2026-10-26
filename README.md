@@ -75,12 +75,6 @@ Software engineer from Pune, India. B.E. in Information Technology (I²IT, 2026)
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Krutika9021&bg_color=FFFFFF&color=9CA3AF&line=22C55E&point=22C55E&area=false&hide_border=true)
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/Krutika9021/github_graph_painter/main/dist/github-snake.svg?v=3)
