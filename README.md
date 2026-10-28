@@ -69,9 +69,22 @@ Software engineer from Pune, India. B.E. in Information Technology (I²IT, 2026)
 
 # 🗺️ What I Work On
 
-- **Geospatial backend (Java):** OSM, GeoJSON, GraphHopper, JTS, DuckDB, at [@IntelliMapLab](https://github.com/IntelliMapLab)
-- **Data engineering:** Databricks, PySpark, Delta Lake, Medallion Architecture
+- **Geospatial routing (Java):** Built an adaptation layer that lets [GraphHopper](https://github.com/graphhopper/graphhopper) route on **Overture Maps** data (Parquet + GeoJSON) alongside OSM, without heavily modifying its core. Worked on this at [@IntelliMapLab](https://github.com/IntelliMapLab) with Intellias Global.
+  - Overture reader and schema mapping (road class, access restrictions, speed limits)
+  - Car, bus, bike and walking profiles
+  - Zero regression on OSM routing (identical nodes, edges, routes and times before and after)
+  - Reviewed 20+ pull requests
+- **Data engineering:** Retail analytics pipeline on Databricks with Medallion Architecture (Bronze/Silver/Gold), PySpark, Delta Lake and Unity Catalog
 - **DevOps:** CI/CD with Jenkins and GitHub Actions, containers with Docker and Kubernetes, IaC with Terraform, monitoring with Prometheus and Grafana
+- **GenAI:** [rag-docs-assistant](https://github.com/Krutika9021/rag-docs-assistant), a FastAPI RAG app with Docker and CI
+
+---
+
+# 🏆 Highlights
+
+- Top 20 finalist at Hackquinox hackathon
+- 500+ problems solved on LeetCode and GeeksforGeeks
+- GitHub Pull Shark achievement
 
 ---
 
